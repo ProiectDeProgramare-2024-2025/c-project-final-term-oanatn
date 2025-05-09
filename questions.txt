@@ -1,0 +1,102 @@
+How many planets are in this  solar system?
+8
+9
+10
+4
+1
+In the 16th century, the word "computer" reffered to:
+A laptop
+A person who did mathematical computations
+An engineer
+The word didn't exist back then
+2
+By convention, 0! (0 factorial) is:
+0
+Doesn't exist
+1
+Infinity
+3
+When did the Romanian great union happen?
+24th January
+13th October
+1st December
+15th September
+3
+The number e is approximatively equal to:
+2.7
+3.14
+1.23
+4.36
+1
+What is the official language of Brazil?
+Spanish
+Portuguese
+Brazilian
+French
+2
+How many continents are there on Earth?
+5
+6
+7
+4
+3
+Who is the god of war in Greek mythology?
+Hermes
+Chronos
+Apolo
+Ares
+4
+What does "www" stand for in a website address?
+Wide way web
+World wide web
+World wide way
+Wide world web
+2
+What is the standard tuning of a guitar?
+DADGAD
+EADF#BE
+ABCDEF
+EADGBE
+4
+Which language has the most native speakers worldwide?
+Spanish
+English
+Indian
+Mandarin Chinese
+4
+Which part of the cell contains the DNA?
+Nucleus
+Cytoplasm
+Mitochondria
+Cell membrane
+2
+What is the SI unit of force?
+Pascal
+Joule
+Newton
+Watt
+3
+What type of energy is stored in food?
+Kinetic energy
+Chemical energy
+Nuclear energy
+Thermal energy
+2
+What is the formula for water?
+NaCl
+H_2O
+Na(OH)
+O_2
+2
+Which of these is not a stringed instrument?
+Guitar
+Violin
+Mandolin
+Piano
+4
+Which of these was not a scientist?
+Pascal
+Newton
+Mozzart
+Thales
+3
